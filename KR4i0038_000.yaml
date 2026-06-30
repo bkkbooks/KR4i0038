@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4i0038/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部九
+  hash: sha256:2915ca2c42004a91a126dfeea4ee146e90e0888298fa16b14df859e534a1c6b4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0038_WYG_000-1a, image: WYG1481/WYG1481-0461a.png}
+body:
+  text: 娛書堂詩話詩文評類提要臣等謹案娛書堂詩話一卷宋趙與虤撰虤字集韻音牛間切說文訓為虎怒故其字為威伯以宋史宗室表連名次第考之蓋太祖十世孫也書中多稱陸游楊萬里樓鑰晚年之作又引張淏雲谷雜記是寧宗以俊人矣觀其所論大抵以神韻脫灑為宗其引楊萬里千巖摘稿序及姜堯章白石詩稿自序頗以江西宗派為未善其宗㫖可知殆當宋元之交詩派將變之時學者方厭棄黃陳餘唾而欲矯以清新故其議論如此雖未必盡合詩家正諦而一時風㑹升降之故要即可於此覘之至其他徵引亦多詳核可據頗有足資考證者焉乾隆四十二年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:200c4584d0c15aa8736fb7066d2c8de8a618b4f17693200a39149394e979006e
+metadata:
+  title: 娛書堂詩話
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:45:35.471340'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4i0038/KR4i0038_000.txt
+hash: sha256:ebe3c58541437cf00d08b021dd1b57d69933401255b201c4f6cddd888b39e913
