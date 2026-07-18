@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4i0038_000.yaml, hash: 'sha256:a3628667f752c583111287c0dc68a893f1f8002761ad641154eb2721308bf378'}
   - {seq: 1, filename: KR4i0038_001.yaml, hash: 'sha256:4db3803fc22bf9436a731ba93a65461f9ef283cdcced59ec849782f5dc07c6c6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0038_000.markers.yaml, hash: 'sha256:1650e672954ba8422c4daac09afb378fd5170d14828fa5b851d42530d9c0af25'}
-  - {seq: 1, role: markers, filename: assets/KR4i0038_001.markers.yaml, hash: 'sha256:7850090fc73f08f62bfc149b6d761e2cb87bbe85ce85beccf8bf78e953f3868b'}
+  - {seq: 0, role: markers, filename: assets/KR4i0038_000.markers.yaml, hash: 'sha256:5a1bca1184330234ac54546bedc8d4ebb2dbcacd1e164ae4a23aa9d9fec6d6d0'}
+  - {seq: 1, role: markers, filename: assets/KR4i0038_001.markers.yaml, hash: 'sha256:d95092f7bb52bd19a42c7a5a339d1d510966cc4069568e87d571577881e77edb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 娛書堂詩話
   type: section
   level: 1
-hash: sha256:1c92d8913ac424f688178103b51fa249d0653e37dda79db0d7b160cf651c0391
+hash: sha256:c6bb870807505bdb96054d93a9d069648f1c7d9bb0ab54106e026959d72644f5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

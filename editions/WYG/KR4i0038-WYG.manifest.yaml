@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR4i0038_000-WYG.yaml, hash: 'sha256:21b61bc92a00d4a3f6066e99974aa6859c4d4e9f445e22a45aeab191b8c35c08'}
   - {seq: 1, filename: KR4i0038_001-WYG.yaml, hash: 'sha256:6fd042ec1415dc18f94a09804039dc263ea922e40ae3f3ceb0114f3b4ea4077f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4i0038_000-WYG.markers.yaml, hash: 'sha256:76a6fe1cb10d21176e9b9c9cdd5c6c0328707bc6b3f251044ba143535894a034'}
-  - {seq: 1, role: markers, filename: assets/KR4i0038_001-WYG.markers.yaml, hash: 'sha256:4f62c5c9107c68c65f8206ac367ba8c8e08db972d89e2487adf4bf2c5d0937f0'}
+  - {seq: 0, role: markers, filename: assets/KR4i0038_000-WYG.markers.yaml, hash: 'sha256:8163b273e1c269b615b16983f9bf8bd9426c32d38d49659d2d6a541b56777eed'}
+  - {seq: 1, role: markers, filename: assets/KR4i0038_001-WYG.markers.yaml, hash: 'sha256:5e9198505c6fe7ef4c28c151a00b9d3c2914aac8899a8d38f1d78cf4227841d1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 娛書堂詩話
   type: section
   level: 1
-hash: sha256:e2700dfc4ad007e868e039e864d849cd74fa5a076b35824d52a9700b62955b9c
+hash: sha256:8da90b339f8e6d8f73db4a14a6a54b7248de1fb26bca173202c2793879466dcf
